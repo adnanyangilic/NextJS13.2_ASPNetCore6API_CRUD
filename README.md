@@ -5,8 +5,8 @@ Program.cs. I had to write 127.0.0.1 instead of localhost in NextJS API urls.
 
  First open ASP.Net Core API project in visual studio.
  Create a database in ms sqlserver management studio.
- Change connection string in appsettings.json file
- Run update-database command in nuget package manager console
+ Change connection string in appsettings.json file.
+ Run update-database command in nuget package manager console.
  Run ASP.Net core project.
  to install node_modules and dependencies in nextJS project run:
 # npm install
